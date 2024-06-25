@@ -11,6 +11,8 @@ Soldering should be straight forward with the help of the [interactive bill of m
 The orientation of `U1` and `U2` are indicated by small arrows on the PCB.
 The orientaion `D16` is such that its white line is on the side where the footprint on the silkscreen also has a white line.
 For all other components, the orientation does not matter, or their form-factor allows only one orientation (`D1-D15`).
+Make sure to also solder the metal legs on the side, as they will give stability to the jack.
+Do **not** plug in a USB-cabel without soldering the metal legs on the side of the USB-jack! You will most likely rip off the USB-jack when unplugging the USB-cable!
 
 # Flashing firmware
 This keyboard is designed for the [FAK-firmware](https://github.com/semickolon/fak).
