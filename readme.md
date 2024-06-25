@@ -17,6 +17,7 @@ Do **not** plug in a USB-cabel without soldering the metal legs on the side of t
 # Flashing firmware
 This keyboard is designed for the [FAK-firmware](https://github.com/semickolon/fak).
 I've provided some example configuration files in [my fork](https://github.com/ThePurox/fak-config) of the fak-config repository with the keyboard name `hexapoda`.
+The push-button closer to the USB-jack is the `BOOT` button. The one closer to the thumb keys is the `RESET` button.
 
 # BOM
 | Part             | LCSC-Part Nr | amount |
